@@ -107,7 +107,7 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 <br><br><br>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasdid000&show_icons=true&locale=en&layout=compact" height="200" alt="tasdid000" /></p>
-
+    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasdid000&show_icons=true&locale=en" height="200" alt="tasdid000" /></p>
 </div>
 <br><br>
