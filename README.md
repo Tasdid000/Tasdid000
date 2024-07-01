@@ -8,7 +8,13 @@
         height="200px",
         />
 </p><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tasdid000&label=Profile%20views&color=0e75b6&style=flat" alt="tasdid000" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tasdid000&label=Profile%20views&color=0e75b6&style=flat" alt="tasdid000" /> 
+</p>
+<p align="center">
+    <a href="https://tryhackme.com/p/hackerbd">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/hackerbd.png" alt="TryHackMe">
+    </a>
+</p>
 <h5 align="center">I work with perfection and find a simple solution to every difficult task.<br><br>
 I always avoid complexity. I love to do everything simply and smartly.</h5>
 <br>
@@ -97,9 +103,6 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 <a href="https://www.instagram.com/tasdid_hasnain/" rel="nofollow"><img src="SVG/instagram-brands.svg" alt="instagram" height="20" width="30" style="max-width: 100%;"></a>
 </p>
 </p>
-
-
-
 
 <br><br><br>
 <div>
