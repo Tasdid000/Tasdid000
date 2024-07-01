@@ -76,7 +76,7 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 </p>
 <br>
 <hr>
-<h6>
+<h5>
     
 - 🔭 I’m currently working on **full stack Web & cybersecurity analytics.**
 
@@ -91,7 +91,7 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 - 📫 How to reach me **Follow my contact information given below...**
 
 - 📄 Know about my experiences [here](https://www.canva.com/design/DAGJrmKNFtQ/1kPRc78S-qLlF7dLVThkhg/edit?utm_content=DAGJrmKNFtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-</h6>
+</h5>
 <hr>
 
 
@@ -105,11 +105,9 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 </p>
 
 <br><br><br>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasdid000&show_icons=true&locale=en&layout=compact" height="200" alt="tasdid000" /></p>
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasdid000&show_icons=true&locale=en" height="200" alt="tasdid000" /></p>
-</div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasdid000&show_icons=true&locale=en&layout=compact" height="200" alt="tasdid000" /></p>
+    <br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasdid000&show_icons=true&locale=en" height="200" alt="tasdid000" /></p>
 <br><br>
 <h3 align="left">🔥 My Stats :</h3>
 <br><br>
