@@ -91,8 +91,11 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tasdid-hasnain-2b164822a" target="blank"><i class="fa-solid fa-envelope"></i></a>
-<a href="https://kaggle.com/tasdidhasnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasdidhasnain" height="30" width="40" /></a>
+    <p dir="auto"><a href="mailto:tasdidhasnain@gmail.com"><img src="SVG/email.svg" alt="github" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/tasdid-hasnain-2b164822a/" rel="nofollow"><img src="SVG/linkedin-brands.svg" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/TasdidHasnainSiam/" rel="nofollow"><img src="SVG/facebook-square-brands.svg" alt="facebook" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/tasdid_hasnain/" rel="nofollow"><img src="SVG/instagram-brands.svg" alt="instagram" height="20" width="30" style="max-width: 100%;"></a>
+</p>
 </p>
 
 
