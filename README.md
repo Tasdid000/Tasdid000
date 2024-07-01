@@ -70,7 +70,8 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 </p>
 <br>
 <hr>
-
+<h6>
+    
 - 🔭 I’m currently working on **full stack Web & cybersecurity analytics.**
 
 - 🌱 I’m interested to develop a **web application for you.**
@@ -84,12 +85,19 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 - 📫 How to reach me **Follow my contact information given below...**
 
 - 📄 Know about my experiences [here](https://www.canva.com/design/DAGJrmKNFtQ/1kPRc78S-qLlF7dLVThkhg/edit?utm_content=DAGJrmKNFtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+</h6>
+<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tasdid-hasnain-2b164822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasdid-hasnain-2b164822a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tasdid-hasnain-2b164822a" target="blank"><i class="fa-solid fa-envelope"></i></a>
 <a href="https://kaggle.com/tasdidhasnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasdidhasnain" height="30" width="40" /></a>
 </p>
+
+
+
+
 <br><br><br>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasdid000&show_icons=true&locale=en&layout=compact" height="200" alt="tasdid000" /></p>
