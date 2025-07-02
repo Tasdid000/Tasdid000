@@ -12,7 +12,7 @@
 </p>
 <p align="center">
     <a href="https://tryhackme.com/p/hackerbd">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/hackerbd.png" alt="TryHackMe">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/0v3rr1d3.png" alt="Your Image Badge" />
     </a>
 </p>
 <h5 align="center">I work with perfection and find a simple solution to every difficult task.<br><br>
