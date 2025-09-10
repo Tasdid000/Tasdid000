@@ -26,6 +26,71 @@
     <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4">
         <img src="SVG/the-eye-that-sees-all.webp" height="50px" />
     </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    ######
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/74e7fcac-4fb1-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/airborne-delivery.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/29865d07-515d-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/drop-your-weapon.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/2969586c-d748-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/everything-is-connected.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4">
+        <img src="SVG/every-road-leads-back-to-root.webp" height="50px" />
+    </a>
+    
 </p>
 
 <h5 align="center">I work with perfection and find a simple solution to every difficult task.<br><br>
