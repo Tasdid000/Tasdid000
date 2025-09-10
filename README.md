@@ -15,6 +15,19 @@
         <img src="https://tryhackme-badges.s3.amazonaws.com/0v3rr1d3.png" alt="Your Image Badge" />
     </a>
 </p>
+<h2 align="center">🏴 Hack The Box Achievements</h2>
+<p align="center">
+    <a href="https://academy.hackthebox.com/achievement/badge/46c6c114-254c-11ef-b18d-bea50ffe6cb4">
+        <img src="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4" height="100px" />
+    </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/102f59d6-568f-11f0-bcfd-bea50ffe6cb4">
+        <img src="https://academy.hackthebox.com/achievement/badge/102f59d6-568f-11f0-bcfd-bea50ffe6cb4" height="100px" />
+    </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4">
+        <img src="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4" height="100px" />
+    </a>
+</p>
+
 <h5 align="center">I work with perfection and find a simple solution to every difficult task.<br><br>
 I always avoid complexity. I love to do everything simply and smartly.</h5>
 <br>
