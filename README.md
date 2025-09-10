@@ -17,14 +17,14 @@
 </p>
 <h2 align="center">🏴 Hack The Box Achievements</h2>
 <p align="center">
-    <a href="https://academy.hackthebox.com/achievement/badge/46c6c114-254c-11ef-b18d-bea50ffe6cb4">
-        <img src="https://academy.hackthebox.com/achievement/badge/b4ac3569-50e3-11ef-864f-bea50ffe6cb4" height="100px" />
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/46c6c114-254c-11ef-b18d-bea50ffe6cb4">
+        <img src="SVG/academician.webp" height="50px" />
     </a>
-    <a href="https://academy.hackthebox.com/achievement/badge/102f59d6-568f-11f0-bcfd-bea50ffe6cb4">
-        <img src="https://academy.hackthebox.com/achievement/badge/102f59d6-568f-11f0-bcfd-bea50ffe6cb4" height="100px" />
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/102f59d6-568f-11f0-bcfd-bea50ffe6cb4">
+        <img src="SVG/our-favorite-seabird.webp" height="50px" />
     </a>
-    <a href="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4">
-        <img src="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4" height="100px" />
+    <a style="text-decoration:none;" href="https://academy.hackthebox.com/achievement/badge/97b22b83-5b49-11f0-bcfd-bea50ffe6cb4">
+        <img src="SVG/the-eye-that-sees-all.webp" height="50px" />
     </a>
 </p>
 
